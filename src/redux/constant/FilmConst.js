@@ -1,0 +1,11 @@
+export const GET_FILM_BANNER = "GET_FILM_BANNER";
+
+export const GET_FILM_LIST = "GET_FILM_LIST";
+
+export const PHIM_SAP_CHIEU = "PHIM_SAP_CHIEU";
+
+export const PHIM_DANG_CHIEU = "PHIM_DANG_CHIEU";
+
+export const GET_FILM_DETAILS = "GET_FILM_DETAILS";
+
+export const GET_INFO_FILM_EDIT = "GET_INFO_FILM_EDIT";

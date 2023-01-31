@@ -1,0 +1,7 @@
+export const GET_FILM_TICKET = "GET_FILM_TICKET";
+
+export const SEAT_BOOKING = "SEAT_BOOKING";
+
+export const BOOK_TICKET = "BOOK_TICKET";
+
+export const BOOKING_SUCCESS = "BOOKING_SUCCESS"
